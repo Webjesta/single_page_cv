@@ -1,6 +1,7 @@
 # 🚀 Abdulatifu Pume - Resume (HTML Only)
 
-Welcome to my **personal resume repository**! This project contains a well-structured, semantic **HTML-only** CV that is optimized for SEO, social media sharing, and future styling.  
+Welcome to my **personal resume repository**! 
+This project contains a well-structured, semantic **HTML-only** CV that is optimized for SEO, social media sharing, and future styling.  
 
 ---
 
@@ -22,3 +23,5 @@ Welcome to my **personal resume repository**! This project contains a well-struc
 │── 📝 index.html   # Main HTML file (Resume content)
 │── 📷 favicon.ico  # Favicon for branding
 │── 📄 README.md    # Project documentation
+
+https://roadmap.sh/projects/single-page-cv
