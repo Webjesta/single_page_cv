@@ -20,7 +20,7 @@ This project contains a well-structured, semantic **HTML-only** CV that is optim
 
 ```plaintext
 📂 resume/
-│── 📝 index.html   # Main HTML file (Resume content)
+│── 📝 single_page_cv.html   # Main HTML file (Resume content)
 │── 📷 favicon.ico  # Favicon for branding
 │── 📄 README.md    # Project documentation
 
